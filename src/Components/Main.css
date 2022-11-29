@@ -1,0 +1,17 @@
+
+.Main{
+    width: 100%;
+    min-height: 100%; ;
+}
+.Weather{
+    width:50%;
+    min-height:100%;
+    position: absolute;
+    right: 0;
+}
+
+.country{
+    cursor:pointer;
+    padding:10px;
+    margin:10px;
+}
